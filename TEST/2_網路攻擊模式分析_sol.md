@@ -17,7 +17,9 @@ the most likely cause==最有可能的原因
 # 2
 ```
 2. Ahmed is a sales manager with a major insurance company. 
-He has received an email that is encouraging him to click on a link and fill out a survey. He is suspicious(懷疑) of the email, but it does mention a major insurance association,and that makes him think it might be legitimate(合法). 
+He has received an email that is encouraging him to click on a link and fill out a survey. 
+He is suspicious(懷疑) of the email, but it does mention a major insurance association,
+and that makes him think it might be legitimate(合法). 
 
 Which of the following best describes this attack?
 A. Phishing  網路釣魚
@@ -51,7 +53,9 @@ a large number of half-open connections==一堆半開放的連線
 # 10
 ```
 10. Your company outsourced(外包) development of an accounting application 
-to a local programming firm. After three months of using the product, one of your accountants(會計師) accidently discovers a way to log in(登入) and bypass(繞過) all security and authentication(認證). 
+to a local programming firm. After three months of using the product, 
+one of your accountants(會計師) accidently discovers a way to log in(登入) and bypass(繞過) 
+all security and authentication(認證). 
 
 What best describes this?
 A. Logic bomb 邏輯炸彈
@@ -60,3 +64,13 @@ C. Backdoor 後門程式
 D. Rootkit
 ```
 
+# 97
+```
+97. Acme Company is using smart cards that use near-field communication (NFC) rather than
+needing to be swiped. This is meant to make physical access to secure areas more secure.
+What vulnerability might this also create?
+A. Tailgating
+B. Eavesdropping
+C. IP spoofing
+D. Race conditions
+```
